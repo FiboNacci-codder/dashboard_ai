@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Comercial Real-Time",
+  "description": "Dashboard comercial interactivo con analíticas en tiempo real conectadas a Google Sheets, incluyendo métricas de satisfacción, tiempos de respuesta y distribución por sede.",
+  "requestFramePermissions": []
+}
